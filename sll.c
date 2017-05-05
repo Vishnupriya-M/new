@@ -1,5 +1,4 @@
 //NAME:VISHNUPRIYA.M
-//ROLL NO:64
 //PROGRAM:OPERATIONS IN SLL
 #include<stdio.h>
 struct node
