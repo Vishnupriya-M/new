@@ -1,5 +1,4 @@
 //NAME:VISHNUPRIYA.M
-//ROLL NO:64
 //PROGRAM:OPERATIONS ON A STACK
 
 #include<stdio.h>
