@@ -1,6 +1,4 @@
 //NAME:VISHNUPRIYA.M
-//CLASS:S3R
-//ROLL NO:64
 //AIM: WRITE A PROGRAM TO FIND TRANSPOSE OF A MATRIX
 #include<stdio.h>
 void spars(int A[20][20],int T[20][3],int r,int c){
